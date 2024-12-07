@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(246, 246, 192);
+}
+.first, .second{
+    margin: 5px;
+    margin-right: 20%;
+    border-style: solid;
+    border-color: gray;
+    background-color: white;
+}
+.third{
+    margin: 5px;
+    margin-right: 20%;
+    border-style: dotted;
+    border-color: red;
+    background-color: white;
+    color: red;
+}
+.dotted{
+    border-style: dotted;
+    border-color: red;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+.orange{
+    background-color: orange;
+}
+.yellow{
+   background-color: yellow;
+}
